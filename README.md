@@ -12,7 +12,7 @@ Built with Java EE technologies, this project aims to streamline e-book access a
 - 🧑‍💼 Admin panel for book and user management
 
 🛠️ Tech Stack
-- Frontend : JSP, HTML, CSS, JSTL  
+- Frontend : HTML, CSS, Bootstrap, JSP, JSTL  
 - Backend : Java Servlets, Core Java  
 - Database : MySQL(via JDBC)  
 - IDE : NetBeans 8.2  
